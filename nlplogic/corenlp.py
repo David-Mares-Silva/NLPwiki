@@ -1,11 +1,11 @@
 from textblob import TextBlob
 import wikipedia
-"""
-text1 = wikipedia.summary(wikipedia.search("Chemax")[1])
-blob = TextBlob(text1)
-blob.noun_phrases
-print(blob.noun_phrases)
-"""
+
+#text1 = wikipedia.summary(wikipedia.search("Chemax")[1])
+#blob = TextBlob(text1)
+#blob.noun_phrases
+#print(blob.noun_phrases)
+
 
 
 
